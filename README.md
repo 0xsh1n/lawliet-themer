@@ -2,10 +2,10 @@
    Termux Theme
    </h3> 
  <p align="center"> 
- termux theme
+ termux theme is a tool that can change your termux appearance
  </p> 
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1175528789619511366/1187699299837038662/Screenshot_2023_1222_181233.png?ex=6597d62b&is=6585612b&hm=7df144d39e01b75c10f83cbcbbdf42739cbab1bde2d91d8a7cc1783db6e733fe&">
+<img src="https://cdn.discordapp.com/attachments/1175528789619511366/1187700341693759559/Screenshot_2023_1222_181645.png?ex=6597d723&is=65856223&hm=208a2cdda7e5b21011bf42517194d63b0b7363fe453f8ab35a5d785d7f98d119&">
 </p>
 
  <h2>Installation</h2> 
@@ -16,9 +16,3 @@
  bash os.sh
  ``` 
 
- ## Disclaimer  
-
-  |Tool was made for Educational purposes|  
-  |-------------------------------------------------|  
-  This project was created only for good purposes and personal use.  
-  By using this Tool, you agree that you hold responsibility and accountability of any consequences caused by your actions.  
