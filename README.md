@@ -11,8 +11,8 @@
  <h2>Installation</h2> 
 
  ``` 
- git clone https://github.com/0xsh1n/termux-theme
- cd termux-theme
+ git clone https://github.com/0xsh1n/lawliet-theme
+ cd lawliet-theme
  bash os.sh
  ``` 
 
